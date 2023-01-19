@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Alka mahato",
+      "email": "alka9@gmail.com",
+      "phone": "9939700779",
+      "address": "Jharkhand",
+      "id": 2
+    },
+    {
+      "name": "Eshwika Kumari",
+      "email": "Eshwika98@gmail.com",
+      "phone": "74983754298",
+      "address": "Aasam",
+      "id": 3
+    },
+    {
+      "name": "Rohit Kumar",
+      "email": "rohitkumar6@gmail.com",
+      "phone": "9408632689",
+      "address": "Chennai",
+      "id": 4
+    },
+    {
+      "name": "Ria Sharma",
+      "email": "ria@gmail.com",
+      "phone": "74983754298",
+      "address": "Kolkata",
+      "id": 6
+    },
+    {
+      "name": "aradhana kharwar",
+      "email": "kharwararadhana2001@gmail.com",
+      "phone": "9903349182",
+      "address": "Kolkata",
+      "id": 7
+    }
+  ]
+}
